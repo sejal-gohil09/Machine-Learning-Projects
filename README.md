@@ -1,4 +1,4 @@
-# Sejal Gohil's Machine Learning Projects Repository
+# Machine Learning Projects
 
 Welcome to my **Machine Learning Projects** repository! This repository contains a collection of my ML projects and a **Sales Analysis dashboard built with PySpark**. Each project showcases practical applications of data analysis, machine learning, and predictive modeling.
 
@@ -47,6 +47,4 @@ I am passionate about **data analytics, machine learning, and big data analytics
 - Includes classification, regression, and predictive modeling projects  
 
 ---
-
-## 📂 Repository Structure
 
